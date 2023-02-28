@@ -1,0 +1,22 @@
+[
+  {
+    "name": "JavaScript Calculator",
+    "desc": "Simple HTML CSS Javascript Calculator For Mathmatical Tasks.",
+    "image": "calculator",
+    "category": "web",
+    "links": {
+      "view": "https://tshriyansh.github.io/MUSIC-PLAYER-CODING-NINJAS/",
+      "code": "https://github.com/codewithabhi12/calculator-App"
+    }
+  },
+  {
+    "name": "Music Player",
+    "desc": "Music Player Made By Me",
+    "image": "musictwo",
+    "category": "web",
+    "links": {
+      "view": "https://tshriyansh.github.io/MUSIC-PLAYER-CODING-NINJAS/",
+      "code": "https://github.com/tshriyansh/MUSIC-PLAYER-CODING-NINJAS"
+    }
+  }
+]

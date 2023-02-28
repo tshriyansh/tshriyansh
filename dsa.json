@@ -1,0 +1,30 @@
+[
+    {
+        "name": "DSA Codes",
+        "icon": "https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png",
+        "link": "https://github.com/tshriyansh"
+    },
+    {
+        "name": "JavaScript",
+        "icon": "https://img.icons8.com/color/48/000000/javascript--v1.png",
+        "link": "https://github.com/tshriyansh"
+    },
+    {
+        "name": "HTML",
+        "icon": "https://img.icons8.com/color/48/000000/html-5--v1.png",
+        "link": "https://github.com/tshriyansh"
+    },
+    {
+        "name": "CSS",
+        "icon": "https://img.icons8.com/color/48/000000/css3.png",
+        "link": "https://github.com/tshriyansh"
+    },
+    
+    
+    
+    {
+        "name": "Web Dev",
+        "icon": "https://img.icons8.com/external-kiranshastry-lineal-color-kiranshastry/50/000000/external-web-development-coding-kiranshastry-lineal-color-kiranshastry.png",
+        "link": "https://github.com/tshriyansh"
+    }
+]
